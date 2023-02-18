@@ -1,0 +1,14 @@
+name: 'Prerolls'
+guid: '9482dc3b-48aa-4d3b-8224-9128d1e8e0cd'
+version: '2.0.0.0'
+targetAbi: '10.8.0.0'
+framework: 'net6.0'
+owner: 'modernharp'
+overview: 'Display prerolls before movies and other videos'
+description: >
+  Automatically select a preroll locally from a folder to run before your movies or videos.
+category: 'Other'
+artifacts:
+- 'Jellyfin.Plugin.Intros.dll'
+changelog: >
+  Initial Release
